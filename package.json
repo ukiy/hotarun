@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ukiy/hatarun/issues"
   },
-  "homepage": "https://github.com/ukiy/hatarun#readme"
+  "homepage": "https://github.com/ukiy/hatarun#readme",
+  "dependencies": {
+    "readline": "0.0.8",
+    "readline-sync": "^1.2.19",
+    "twitter": "^1.2.5"
+  }
 }
