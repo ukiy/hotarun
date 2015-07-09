@@ -1,0 +1,19 @@
+{
+  "name": "hotarun",
+  "version": "1.0.0",
+  "description": "twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukiy/hotarun.git"
+  },
+  "author": "ukiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukiy/hatarun/issues"
+  },
+  "homepage": "https://github.com/ukiy/hatarun#readme"
+}
